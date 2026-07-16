@@ -38,4 +38,8 @@ this is my daily update of my DSA journey what i have studied and making my work
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aviralsoni25/DSA-45-Day-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/aviralsoni25/DSA-45-Day-Challenge/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
